@@ -2,7 +2,7 @@ function Title() {
   return (
     <section>
       <h1>Progresus Constructora</h1>
-      <h4>Soluciones para su hogar</h4>
+      <h4>Progreso sustentable</h4>
     </section>
   )
 }
