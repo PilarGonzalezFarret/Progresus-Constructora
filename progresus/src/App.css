@@ -1,0 +1,8 @@
+/* App.css o el archivo CSS que estés usando */
+body {
+  background-image: url('./assets/paredblanca.jpg'); /* Ruta relativa a la imagen */
+  background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-attachment: fixed; /* Fija la imagen para que no se mueva al hacer scroll */
+  color: rgb(70, 70, 70);
+}
